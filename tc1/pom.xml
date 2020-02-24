@@ -7,7 +7,7 @@
 	<groupId>com.mycompany</groupId>
 	<artifactId>tc1</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
-	<packaging>mule-application</packaging> 
+	<!-- <packaging>mule-application</packaging> --> 
 
 	<name>tc1</name>
 	
