@@ -5,7 +5,7 @@ pipeline
    stage('Build Application') 
    {
    steps{
-   bat 'mvn clean install'
+   bat 'mvn -f tc1/pom.xml clean install'
    }
    }
    stage('Deploy Application into cloud') 
